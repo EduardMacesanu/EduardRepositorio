@@ -8,5 +8,8 @@
 <body>
     <h1> COMANDOS : </h1>
     <p><a href="CUT.html"> Comando CUT </a></p>
+    <p><a href="sort.html"> Comando SORT </a></p>
+    <p><a href="wc.html"> Comando WC </a></p>
+    <p><a href="grep.html"> Comando GREP </a></p>
 </body>
 </html>
